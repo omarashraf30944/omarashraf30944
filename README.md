@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarashraf30944
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning compiyer science
+- 🌱 I’m currently learning computer science
 - 📫 How to reach me E-mail: omarashraf9302000@gmail.com LinkedIn: nkedin.com/in/omar-ashraf-986744190/
 
 <!---
